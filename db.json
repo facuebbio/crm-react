@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro el Escamoso",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "Le encanta cantar y bailar al pinche pendejo wey",
+      "id": 5
+    },
+    {
+      "nombre": "Facundo Ebbio",
+      "empresa": "Secretos del Agua",
+      "email": "facuebbio@gmail.com",
+      "telefono": "697394971",
+      "notas": "Solicito un Ecommerce",
+      "id": 6
+    },
+    {
+      "nombre": "Pinocho",
+      "empresa": "Madera Group",
+      "email": "pin8@expresomedieval.com",
+      "telefono": "587142",
+      "notas": "El cliente solicita nuevos equipos para sumar a su empresa ya que tiene nuevo personal",
+      "id": 7
+    },
+    {
+      "nombre": "Fiona",
+      "empresa": "Farfaraway Brokers",
+      "email": "fiona_princesa@expresomedieval.com",
+      "telefono": "478561",
+      "notas": "La clienta solicita mantenimiento de todos los equipos de la empresa",
+      "id": 8
+    }
+  ]
+}
